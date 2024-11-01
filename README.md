@@ -1,6 +1,6 @@
 # Skyline-Builders-Group
-This is an exercise for structoring raw html and styling with CSS
-Visit: https://valentincasanova.github.io/Skyline-Builders-Group/
+- This is an exercise for structoring raw html and styling with CSS
+- Visit: https://valentincasanova.github.io/Skyline-Builders-Group/
 
 # Photo Credit
 *All photos sourced from pexels.com*
