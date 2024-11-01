@@ -1,5 +1,5 @@
 # Skyline-Builders-Group
-
+This is an exercise for structoring raw html and styling with CSS
 
 # Photo Credit
 *All photos sourced from pexels.com*
